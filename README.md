@@ -11,8 +11,8 @@ La información recolectada por la empresa de mercadeo se encuentra en un archiv
 
 Cada registro contiene 16 características (las primeras 16 columnas) y una categoría ("yes" o "no" dependiendo de si la persona está o no interesada en adquirir el producto). Las columnas son:
 
-#"age": edad (numérica)
-#"job": tipo de trabajo (categórica: "admin.", "unknown", "unemployed", "management", "housemaid", "entrepreneur", "student", "blue-collar","self-employed", #"retired", "technician", "services")
+#"age": edad (numérica.
+#"job": tipo de trabajo (categórica: "admin.", "unknown", "unemployed", "management", "housemaid", "entrepreneur", "student", "blue-collar","self-employed", "retired", "technician", "services").
 #"marital": estado civil (categórica: "married", "divorced", "single")
 #"education": nivel educativo (categórica: "unknown", "secondary", "primary", "tertiary")
 #"default": si dejó de pagar sus obligaciones (categórica: "yes", "no")
