@@ -46,4 +46,6 @@ Cada registro contiene 16 características (las primeras 16 columnas) y una cate
 
 "y": categoría ¿el cliente se suscribió a un depósito a término? (categórica: "yes", "no").
 
+
+NOTA: 
 Como sugerencia, revisemos y entendamos la función de cada columna en el dataset para comprender la información que tenemos frente al problema de negocio para poder realizar una limpieza de datos óptima.
